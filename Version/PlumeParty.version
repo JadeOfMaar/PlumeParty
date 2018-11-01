@@ -1,8 +1,8 @@
 {
 	"NAME":"Airline Kuisine",
 	"DOWNLOAD":"https://github.com/JadeOfMaar/PlumeParty/releases",
-	"URL":"https://github.com/JadeOfMaar/PlumeParty/blob/master/GameData/DeepSky/PlumeParty/Version/PlumeParty.version",
-	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/PlumeParty/blob/master/GameData/DeepSky/PlumeParty/Version/Changelog.txt",
+	"URL":"https://github.com/JadeOfMaar/PlumeParty/blob/master/Version/PlumeParty.version",
+	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/PlumeParty/blob/master/Version/Changelog.txt",
 	"GITHUB":
 	{
 		"USERNAME":"JadeOfMaar",
