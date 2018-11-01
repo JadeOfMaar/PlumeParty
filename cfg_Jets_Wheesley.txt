@@ -1,4 +1,4 @@
-// This sample config produces three clones of the stokc Wheesley engine, each with the following plumes attached.
+// This sample config causes three of the stock Wheesley engine to exist, each with the following plumes attached.
 
 // Subsonic Hypno
 +PART[JetEngine]
