@@ -19,8 +19,12 @@
 				transformName = thrustTransform
 				emission = 0.0 0.0
 				emission = 0.6 1.0
+				emission = 1.2 1.1
+				emission = 1.5 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localScale = 1.25, 1.25, 1.25
 				localPosition = 0, 0, -0.3
 			}
@@ -31,8 +35,12 @@
 				transformName = thrustTransform
 				emission = 0.4 0.0
 				emission = 1.0 1.0
+				emission = 1.5 1.1
+				emission = 2.0 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localPosition = 0, 0, -0.3
 			}
 		}
@@ -61,8 +69,12 @@
 				transformName = thrustTransform
 				emission = 0.0 0.0
 				emission = 0.6 1.0
+				emission = 1.2 1.1
+				emission = 1.5 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localScale = 1.25, 1.25, 1.25
 				localPosition = 0, 0, -0.3
 			}
@@ -73,8 +85,12 @@
 				transformName = thrustTransform
 				emission = 0.4 0.0
 				emission = 1.0 1.0
+				emission = 1.2 1.1
+				emission = 1.5 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localPosition = 0, 0, -0.3
 			}
 		}
@@ -102,8 +118,12 @@
 				transformName = thrustTransform
 				emission = 0.0 0.0
 				emission = 0.6 1.0
+				emission = 1.2 1.1
+				emission = 1.5 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localScale = 1.25, 1.25, 1.25
 				localPosition = 0, 0, -0.3
 			}
@@ -114,8 +134,12 @@
 				transformName = thrustTransform
 				emission = 0.4 0.0
 				emission = 1.0 1.0
+				emission = 1.2 1.1
+				emission = 1.5 1.5
 				speed = 0.0 0.8
 				speed = 1.0 1.0
+				speed = 1.5 1.1
+				speed = 2.0 1.5
 				localPosition = 0, 0, -0.3
 			}
 		}
