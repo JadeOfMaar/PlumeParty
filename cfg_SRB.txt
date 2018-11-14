@@ -1,0 +1,146 @@
+// "Rush Wild"
+@PART[xxx]
+{
+	EFFECTS
+	{
+		running_solid
+		{
+			MODEL_MULTI_PARTICLE
+			{
+				name = blaze
+				modelName = PlumeParty/Engines/Solid/RushWildChunks
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.5 1.5
+				emission = 1.0 1.0
+				speed = 0.2 0.2
+				speed = 1.0 1.0
+				energy = 0.0 0.5
+				energy = 0.5 1.0
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				name = chunk
+				modelName = PlumeParty/Engines/Solid/RushWildBlaze
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.2 0.1
+				emission = 0.8 1.0
+				speed = 0.0 0.5
+				speed = 0.5 1.0
+				energy = 0.0 0.0
+				energy = 0.5 1.0
+			}
+		}
+	}
+}
+
+// "Rush Tame"
+@PART[xxx]
+{
+	EFFECTS
+	{
+		running_solid
+		{
+			MODEL_MULTI_PARTICLE
+			{
+				name = blaze
+				modelName = PlumeParty/Engines/Solid/RushTameChunks
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.5 1.5
+				emission = 1.0 1.0
+				speed = 0.2 0.2
+				speed = 1.0 1.0
+				energy = 0.0 0.5
+				energy = 0.5 1.0
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				name = chunk
+				modelName = PlumeParty/Engines/Solid/RushTameBlaze
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.2 0.1
+				emission = 0.8 1.0
+				speed = 0.0 0.5
+				speed = 0.5 1.0
+				energy = 0.0 0.0
+				energy = 0.5 1.0
+			}
+		}
+	}
+}
+
+// "SeparaTron"
+@PART[xxx]
+{
+	EFFECTS
+	{
+		running_solid
+		{
+			MODEL_MULTI_PARTICLE
+			{
+				name = blaze
+				modelName = PlumeParty/Engines/Solid/SeparaTronBlaze
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.5 1.5
+				emission = 1.0 1.0
+				speed = 0.2 0.2
+				speed = 1.0 1.0
+				energy = 0.0 0.5
+				energy = 0.5 1.0
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				name = chunk
+				modelName = PlumeParty/Engines/Solid/SeparaTronChunks
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.2 0.1
+				emission = 0.8 1.0
+				speed = 0.0 0.5
+				speed = 0.5 1.0
+				energy = 0.0 0.0
+				energy = 0.5 1.0
+			}
+		}
+	}
+}
+
+// "OMS"
+@PART[xxx]
+{
+	EFFECTS
+	{
+		running_solid
+		{
+			MODEL_MULTI_PARTICLE
+			{
+				name = blaze
+				modelName = PlumeParty/Engines/Solid/OMSBlaze
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.2 0.4
+				emission = 1.0 1.0
+				speed = 0.2 0.2
+				speed = 1.0 1.0
+				energy = 0.0 0.5
+				energy = 1.0 1.0
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				name = chunk
+				modelName = PlumeParty/Engines/Solid/OMSChunks
+				transformName = thrustTransform
+				emission = 0.0 0.0
+				emission = 0.2 0.1
+				emission = 0.8 1.0
+				speed = 0.0 0.5
+				speed = 0.5 1.0
+			}
+		}
+	}
+}
+
