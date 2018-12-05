@@ -9,15 +9,17 @@ The "Plume Party" is a collection of engine particles for parts in KSP, made for
   * [x] Turbojet
   * [x] Nuclear
   * [ ] Scramjet
-* [ ] Rocket engines
-  * [x] LFO, Hydrolox, Methalox
+* [ ] Rockets (liquid)
+  * [x] LFO, Hydrolox, Methalox (Raptor/Tundra)
+  * [ ] LFO, Hydrolox, Methalox (Non-Raptor)
   * [x] Nuclear
   * [ ] Hypergolic (partial to BDB)
   * [ ] Toroidal/annular aerospikes
   * [ ] TEA/TEB flash for engage event
-* [x] Solid rockets
+* [x] Rockets (solid)
 * [ ] Ion engines
   * [ ] Xenon
+  * [ ] Argon
 
 Many of the provided plumes are actually sets of 2 or more, designed to blend seamlessly and create an even more visually appealing composite plume. The included configs "cfg_xyz.txt" should not be allowed to persist as ".cfg" files in GameData. They are only to be used as source to add to part configs in other mods. You, the mod maker, are welcome to bundle the plumes you use into your own mod. This pack is currently not to be treated as a dependency and currently will not be released on the KSP forum, SpaceDock, CurseForge or other such places. This may change at some point, once it reaches a level of completeness.
 
