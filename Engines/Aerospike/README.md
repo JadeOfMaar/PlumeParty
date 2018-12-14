@@ -3,4 +3,4 @@ Two options have been provided for the stock aerospike. The active one is (of co
 
 Plumes for other aerospikes will be provided on an on-demand basis as aerospikes can come in various proportions.
  
-![Aerospikes 1](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Aerospikes/Aerospikes1.jpg)
+![Aerospikes 1](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Aerospike/Aerospikes1.jpg)
