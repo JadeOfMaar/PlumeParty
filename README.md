@@ -11,10 +11,11 @@ The "Plume Party" is a collection of engine particles for parts in KSP, made for
   * [ ] Scramjet
 * [ ] Rockets (liquid)
   * [x] LFO, Hydrolox, Methalox (Raptor/Tundra)
-  * [ ] LFO, Hydrolox, Methalox (Non-Raptor)
+  * [x] LFO, Hydrolox, Methalox (Blue Origin)
+  * [ ] LFO, Hydrolox, Methalox (Generic)
   * [x] Nuclear
-  * [ ] Hypergolic (partial to BDB)
-  * [ ] Toroidal/annular aerospikes
+  * [x] Hypergolic (partial to BDB)
+  * [x] Toroidal/annular aerospikes
   * [ ] TEA/TEB flash for engage event
 * [x] Rockets (solid)
 * [ ] Ion engines
