@@ -3,7 +3,7 @@
 * Update plumes:
   * Afterburn
 
-* Addd Blue Origin plumes. These families now available:
+* Added Blue Origin plumes. These families now available:
   * BE SL (3)
   * BE Vac (3)
 
