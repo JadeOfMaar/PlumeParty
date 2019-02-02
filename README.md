@@ -4,22 +4,22 @@ Fancy KSP particle pack for mod makers
 
 The "Plume Party" is a collection of engine particles for parts in KSP, made for mod makers to use. Plume Party uses the stock methods for plumes and stands in the gap between the stock library and RealPlume. Rocket engine plumes are provided with variants for sea level and vacuum. Plume Party aims to provide for many popular sorts of engines: 
 * [x] RCS thrusters
-* [ ] Jet engines
+* [x] Jet engines
   * [x] Turbofan
   * [x] Turbojet
   * [x] Nuclear
-  * [ ] Scramjet
+  * [ ] Scramjet (Edge cases/ on demand)
 * [ ] Rockets (liquid)
-  * [x] LFO, Hydrolox, Methalox (Raptor/Tundra)
-  * [x] LFO, Hydrolox, Methalox (Blue Origin)
-  * [ ] LFO, Hydrolox, Methalox (Generic)
+  * [x] Kerolox, Hydrolox, Methalox (Raptor/Tundra)
+  * [x] Kerolox, Hydrolox, Methalox (Blue Origin)
+  * [x] Kerolox, Hydrolox (Generic; Methalox on-demand; no configs yet)
   * [x] Nuclear
   * [x] Hypergolic (partial to BDB)
   * [x] Toroidal/annular aerospikes
   * [ ] TEA/TEB flash for engage event
-* [ ] Rockets (solid)
+* [x] Rockets (solid)
   * [x] Standard
-  * [ ] Alternate
+  * [x] Alternate (Virgin Galactic; no configs yet)
 * [ ] Generic Trailing Smoke (Once made, these should only be used with SL engines. They behave weird at orbital speeds)
 * [ ] Ion engines
   * [ ] Xenon
