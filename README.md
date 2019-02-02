@@ -17,10 +17,10 @@ The "Plume Party" is a collection of engine particles for parts in KSP, made for
   * [x] Hypergolic (partial to BDB)
   * [x] Toroidal/annular aerospikes
   * [ ] TEA/TEB flash for engage event
-  * [ ] Trail smoke for sea-level engines only
 * [ ] Rockets (solid)
   * [x] Standard
   * [ ] Alternate
+* [ ] Generic Trailing Smoke (Once made, these should only be used with SL engines. They behave weird at orbital speeds)
 * [ ] Ion engines
   * [ ] Xenon
   * [ ] Argon
