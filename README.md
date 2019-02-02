@@ -22,8 +22,9 @@ The "Plume Party" is a collection of engine particles for parts in KSP, made for
   * [x] Alternate (**Virgin Galactic**; no configs yet)
 * [ ] Generic Trailing Smoke (Once made, these should only be used with SL engines. They behave weird at orbital speeds)
 * [ ] Ion engines
-  * [ ] Xenon
-  * [ ] Argon
+  * [ ] Standard
+  * [ ] Hall Effect
+  * [ ] Pulsed Plasma
 
 Many of the provided plumes are actually sets of 2 or more, designed to blend seamlessly and create an even more visually appealing composite plume. The included configs "cfg_xyz.txt" should not be allowed to persist as ".cfg" files in GameData. They, and the active files for the stock engines, ending in ".cfg" are for you to use as source to add to part configs in other mods. You, the mod maker, are welcome to bundle the plumes you use into your own mod. This pack is currently not to be treated as a dependency and currently will not be released on the KSP forum, SpaceDock, CurseForge or other such places. This may change at some point, once it reaches a level of completeness.
 
