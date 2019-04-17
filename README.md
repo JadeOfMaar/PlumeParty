@@ -12,19 +12,23 @@ The "Plume Party" is a collection of engine particles for parts in KSP, made for
 * [ ] Rockets (liquid)
   * [x] Kerolox, Hydrolox, Methalox (**Raptor/Tundra**)
   * [x] Kerolox, Hydrolox, Methalox (**Blue Origin**)
-  * [x] Kerolox, Hydrolox (Generic; Methalox on-demand; no configs yet)
+  * [x] Kerolox (**Generic**, Hydrolox and Methalox later)
   * [x] Nuclear
   * [x] Hypergolic (partiality to BDB)
-  * [x] Toroidal/annular aerospikes
-  * [ ] TEA/TEB flash for engage event
+  * [x] Toroidal/annular aerospikes (pending possible revision)
 * [x] Rockets (solid)
   * [x] Standard
   * [x] Alternate (**Virgin Galactic**; no configs yet)
 * [ ] Generic Trailing Smoke (Once made, these should only be used with SL engines. They behave weird at orbital speeds)
-* [ ] Ion engines
-  * [ ] Standard
-  * [ ] Hall Effect
-  * [ ] Pulsed Plasma
+* [ ] Ion engines (Xenon blue only)
+  * [x] Standard
+  * [x] Hall Effect (no configs yet)
+  * [x] Pulsed Plasma (no configs yet)
+* [ ] Vapor Vent
+  * [x] Launchpad (pending revision/new textures)
+  * [x] Transonic vapor cone (pending revision/new textures)
+  * [x] Wingtip trails
+  * [ ] Stunt plane colored smoke ("ROYGBIV" rainbow palette)
 
 Many of the provided plumes are actually sets of 2 or more, designed to blend seamlessly and create an even more visually appealing composite plume. The included configs "cfg_xyz.txt" should not be allowed to persist as ".cfg" files in GameData. They, and the active files for the stock engines, ending in ".cfg" are for you to use as source to add to part configs in other mods. You, the mod maker, are welcome to bundle the plumes you use into your own mod. This pack is currently not to be treated as a dependency and currently will not be released on the KSP forum, SpaceDock, CurseForge or other such places. This may change at some point, once it reaches a level of completeness.
 
@@ -38,6 +42,6 @@ The intricate work is already done. You just need to do the following:
 Have fun and fly safe™
 
 ## Warning
-Be aware that faults have been confirmed in the `localScale` function. Plume scaling breaks at the 4th effect transform on an engine and at the 6th effect transform on an RCS thruster.
-
+Be aware that faults have been confirmed in the `localScale` function. Plume scaling breaks in any engine with more than one nozzle and at the 6th effect transform on an RCS thruster.
+Plume Party is mutually exclusive with ReStock.
 
