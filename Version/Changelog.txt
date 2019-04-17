@@ -1,3 +1,21 @@
+0.5 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+* Deleted plumes:
+  * Generic: Methalox, Hydrolox
+  
+Added plumes:
+  * Generic: Dwarf Star, Eagle
+  * Vapor: Transonic vapor cone, wingtip trail
+  * Ion engine blue
+
+* Udpated plumes:
+  * Generic Kerolox
+  * Nuclear
+  
+* Revised stock engine configs
+* Mutual exclusivity with Restock
+
+
 0.4 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 * Update plumes:
@@ -16,6 +34,7 @@
   * Toroidal Aerospike (2)
 
 * Added stock engines configs.
+
 
 0.2 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
