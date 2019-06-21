@@ -3,7 +3,7 @@
 * Deleted plumes:
   * Generic: Methalox, Hydrolox
   
-Added plumes:
+* Added plumes:
   * Generic: Dwarf Star, Eagle
   * Vapor: Transonic vapor cone, wingtip trail
   * Ion engine blue
