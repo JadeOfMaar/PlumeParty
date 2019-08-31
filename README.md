@@ -43,5 +43,5 @@ Have fun and fly safe™
 
 ## Warning
 Be aware that faults have been confirmed in the `localScale` function. Plume scaling breaks in any engine with more than one nozzle and at the 6th effect transform on an RCS thruster.
-Plume Party is mutually exclusive with ReStock.
+Plume Party has known incompatibilities with ReStock and will, where possible, avoid activation on engines made or remodeled by Nertea.
 
