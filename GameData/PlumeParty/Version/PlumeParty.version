@@ -2,7 +2,7 @@
 	"NAME":"Plume Party",
 	"DOWNLOAD":"https://github.com/JadeOfMaar/PlumeParty/releases",
 	"URL":"https://github.com/JadeOfMaar/PlumeParty/blob/master/GameData/PlumeParty/Version/PlumeParty.version",
-	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/GameData/PlumeParty/master/Version/Changelog.txt",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Version/Changelog.txt",
 	"GITHUB":
 	{
 		"USERNAME":"JadeOfMaar",
