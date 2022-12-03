@@ -3,6 +3,6 @@ To hopefully prevent the overuse of certain other plume families on rocket engin
 
 > Please pardon the plumes looking lumpy and weak. It's a particle limit thing when more than one active plume is selected in Unity.
 
-![Generic Kerolox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Generic/Generic1.jpg)
-![Generic Hydrolox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Generic/Generic2.jpg)
-![Generic Methalox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Generic/Generic3.jpg)
+![Generic Kerolox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Engines/Generic/Generic1.jpg)
+![Generic Hydrolox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Engines/Generic/Generic2.jpg)
+![Generic Methalox](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Engines/Generic/Generic3.jpg)
