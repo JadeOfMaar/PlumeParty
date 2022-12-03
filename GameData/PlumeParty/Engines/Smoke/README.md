@@ -6,4 +6,4 @@ Because Squad's prefab particles just aren't enough. The rainbow is (or will be)
 
 **Warning:** The trailing smoke here will persist in vacuum and fall away at orbital velocities and look weird so try to use these only on sea level rockets and air-breathing engines. The prefab vacuum cutoff switch was nver made available in KSP PartTools.
 
-![White M & MB](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Engines/Smoke/SmokeBillboard.jpg)
+![White M & MB](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Engines/Smoke/SmokeBillboard.jpg)
