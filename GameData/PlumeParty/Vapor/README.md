@@ -3,4 +3,4 @@ The Plume Party even includes prelaunch smoke and an emitter part (which is near
 
 The prelaunch smoke comes in 3 sizes: **Thin, Thick, Ground.**
  
-![Vapor Vent](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/Vapor/Vapor.jpg)
+![Vapor Vent](https://raw.githubusercontent.com/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Vapor/Vapor.jpg)
