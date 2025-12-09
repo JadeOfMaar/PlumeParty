@@ -1,3 +1,8 @@
+0.6.2 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+* Moved stock engine configs to their own mod folder so they don't apply by default now. Trivia: This mod warmed the bench for Waterfall. Does not need to fight and keep that bench.
+
+
 0.6.1 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 * Fixed Rapier plume orientation without Restock.
